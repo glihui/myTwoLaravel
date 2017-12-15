@@ -38,7 +38,7 @@
 
             .title {
                 font-size: 66px;
-            }
+            }::
         </style>
     </head>
     <body>
